@@ -1,5 +1,7 @@
 # Real-time Tweet Streaming
-Get real-time tweets and display on webpage with socket.io
+ Real-time streaming of tweets related to certain keyword.
+ I have used twitter API for getting the data and displaying the real time tweets.
+ 
 ```
 npm install
 
